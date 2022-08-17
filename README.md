@@ -1,4 +1,4 @@
-- Olá! Sou Rodolfo Lara Cassaro!!
+  ✨Olá! Sou Rodolfo Lara Cassaro!!
 
 - 💻 Hoje trabalho com Front-End
 - 🌱 Estudando TypeScript
