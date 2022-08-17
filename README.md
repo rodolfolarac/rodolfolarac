@@ -1,6 +1,6 @@
   ✨Olá! Sou Rodolfo Lara Cassaro!!
 
-- 💻 Hoje trabalho com Front-End
+- 💻 Atualmente trabalho com Front-End
 - 🌱 Estudando TypeScript
 - 😄 Pronouns: ele/dele
 
