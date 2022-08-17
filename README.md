@@ -2,7 +2,6 @@
 
 - 💻 Atualmente trabalho com Front-End
 - 🌱 Estudando TypeScript
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/rodolfolarac">
