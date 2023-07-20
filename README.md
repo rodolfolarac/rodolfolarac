@@ -1,7 +1,7 @@
   ✨Olá! Sou Rodolfo Lara Cassaro!!
 
 - 💻 Atualmente trabalho com Front-End na agência Auaha
-- 🌱 Estudando TypeScript
+- 🌱 Estudando TypeScript e Next.js
 
 <div align="center">
   <a href="https://github.com/rodolfolarac">
