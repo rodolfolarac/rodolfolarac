@@ -1,6 +1,6 @@
   ✨Olá! Sou Rodolfo Lara Cassaro!!
 
-- 💻 Atualmente trabalho com Front-End na agência Auaha
+- 💻 Atualmente trabalho com desenvolvedor Web Pleno para a Agência Growe - Seara/JBS
 - 🌱 Estudando TypeScript e Next.js
 
 <div align="center">
