@@ -1,7 +1,7 @@
   ✨Olá! Sou Rodolfo Lara Cassaro!!
 
-- 💻 Atualmente trabalho com desenvolvedor Web Pleno para a Agência Growe - Seara/JBS
-- 🌱 Atualmente estudando Laravel pela Rocketseat
+- 💻 Atualmente trabalho com desenvolvedor Web Pleno para a Empresa ALUN - FIAP/ALURA
+- 🌱 Atualmente aperfeiçoando conhecimentos mais modernos de Next.JS
 
 <div align="center">
   <a href="https://github.com/rodolfolarac">
